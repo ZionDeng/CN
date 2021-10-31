@@ -1,10 +1,10 @@
-邓子昂
+# 邓子昂
+
 这是我的中文网站，在这里你可以了解我的基本信息和大学里面的相关工作。
 
 我是一名特斯拉工程师，美国加州伯克利控制工程研究生。如果你对我感兴趣的话欢迎找我聊天~
 
-
-[:open_file_folder:](Doc/邓子昂简历.pdf)
+[:open_file_folder:](Doc/邓子昂简历.pdf)  [:e-mail:](ziondeng@berkeley.edu)
 
 # 教育背景
 
