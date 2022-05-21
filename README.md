@@ -3,9 +3,9 @@
 这是我的中文网站，在这里你可以了解我的基本信息和相关工作情况。
 [:open_file_folder:](Doc/邓子昂简历.pdf)  
 
-我是一名特斯拉工程师，美国加州伯克利控制工程研究生。如果你对我感兴趣的话欢迎找我聊天~
-
-:e-mail:<ziondeng@berkeley.edu>
+我是一名特斯拉工程师，美国加州伯克利控制工程研究生。如果你对我感兴趣的话欢迎找我聊天~ [:e-mail](mailto:ziondeng@berkeley.edu)
+* [linkedIn](https://www.linkedin.cn/incareer/in/%E5%AD%90%E6%98%82-%E9%82%93-611595195)
+* [🧣](https://weibo.com/u/5971168633)
 
 # 教育背景
 
@@ -22,6 +22,12 @@
 
 
 # 工作经历
+
+## Tesla  
+
+* `控制工程师` 先进制造 · 核心自动化组 
+* 编写python PLC等工控程序
+* 开发特斯拉标准与模板程序
 
 ## 中科视拓算法实习生
 
