@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "邓子昂简历"
 header-includes: |
   <style>
@@ -10,7 +10,7 @@ header-includes: |
   邓子昂 | 📧 569598401@qq.com | 📞 (+86) 13812639957 | 🌐 https://ziondeng.github.io/CN/ 
 </div>
 
----
+--- -->
 
 # 邓子昂
 
